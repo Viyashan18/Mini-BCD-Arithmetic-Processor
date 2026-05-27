@@ -62,7 +62,6 @@ The processor was tested using different input combinations to verify:
 # 📁 Project Contents
 
 - Proteus circuit design files
-- Simulation screenshots
 - Project documentation/report
 
 ---
@@ -79,8 +78,6 @@ The processor was tested using different input combinations to verify:
 # 👨‍💻 Author
 
 **K. Viyash**  
-🎓 Computer Systems Engineering Student  
-🏫 SLIIT
 
 ---
 
