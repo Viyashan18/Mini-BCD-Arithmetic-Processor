@@ -77,7 +77,7 @@ The processor was tested using different input combinations to verify:
 
 # 👨‍💻 Author
 
-**K. Viyash**  
+**Viyashan.K**  
 
 ---
 
